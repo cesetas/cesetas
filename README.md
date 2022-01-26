@@ -1,4 +1,4 @@
-### Hello, I'm Sedat Taskiran 👋
+### Hello, I'm SETAS 👋
 
 - 🔭 I’m currently working on a Smart Contract
 - 🌱 I’m currently learning Solidity
