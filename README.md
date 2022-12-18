@@ -1,10 +1,8 @@
-### Hello, I'm Sedat 👋
-----
-#### I'm a self-taught full-stack web3 developer from Ankara.
-#### I've been working to improve myself on web development since January 2021 and on web3 since January 2022. 
-#### I'm web3 enthusiast, self-motivated, proactive, detailed-oriented, adaptive, responsible, and committed engineer eager to learn. Having experience of testing, designing, implementing, and delivering web applications using variety programming languages and technologies.
----
+### Hello, I'm Sedat 👋 I'm a self-taught full-stack web3 developer from Ankara.
+#### I've been working to improve myself on web development since January 2021 and on web3 since January 2022. I'm a web3 enthusiast, self-motivated, proactive, detailed-oriented, adaptive, responsible, and committed engineer eager to learn. Having experience of testing, designing, implementing, and delivering web applications using variety programming languages and technologies.
+
 ### Languages and Tools
+---
 <img align="left" style="margin-right:10px" alt="HTML5" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" style="margin-right:10px" alt="CSS3" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" style="margin-right:10px" alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
