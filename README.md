@@ -7,7 +7,8 @@
 <img align="left" style="margin-right:10px" alt="CSS3" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" style="margin-right:10px" alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" style="margin-right:10px" alt="React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" style="margin-right:10px" alt="Next" width="30" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" />
+<img align="left" style="margin-right:10px" alt="Next" width="30" src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" />
+<img align="left" style="margin-right:10px" alt="NodeJS" width="30" src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" /> 
 <img align="left" style="margin-right:10px" alt="TypeScript" width="30" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png" />
 <img align="left" style="margin-right:10px" alt="Tailwind" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
 <a href="https://material-ui.com/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="material-ui" width="26" height="26"/> </a>
