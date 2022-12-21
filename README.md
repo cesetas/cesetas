@@ -20,8 +20,8 @@
 ----
 
 - 🔭 I’m currently working on smart contracts developed by using solidity
+
 - 👯 I’m looking to collaborate on dApps
-- 📫 How to reach me: se_tas@yahoo.com
 ----
 ### Contact with
 
@@ -29,4 +29,5 @@
 <a href="https://twitter.com/taskiransedat" target="blank"><img style="margin-right: 10px;" align="left" alt="Twitter" width="30" src="https://www.iics.k12.tr/wp-content/uploads/2019/07/twitter-logo-png-twitter-logo.png"/></a>
 <a href="mailto:cesetas@gmail.com" target="blank"><img style="margin-right: 10px;" align="left" alt="Dev.to" width="30" src="https://www.pngrepo.com/png/243092/512/gmail.png"/></a>
 <a href="https://discord.gg/" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30" width="26" /></a>
+<a href="mailto:se_tas@yahoo.com" target="blank"><img align="left" style="margin-right:10px" alt="Yahoo" width="30" src="https://www.freeiconspng.com/uploads/yahoo-mail-icon-30.png" /></a>
 
